@@ -1,8 +1,8 @@
 # MyGithubFlowTest
 GithubFlowの練習用
 
-my first pull request.
-<br>私の名前は拓人です
+my first pull request.  
+私の名前は拓人です
 <br>プルリクエストを練習しています
 
 マークダウンの改行は3種類あるらしい  
